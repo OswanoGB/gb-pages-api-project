@@ -1,0 +1,13 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: #8878ff;
+    margin-bottom: 10vh;
+}
+
+.vh-10 {
+    height: 10vh;
+}

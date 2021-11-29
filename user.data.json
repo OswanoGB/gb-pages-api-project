@@ -1,0 +1,14 @@
+{
+    "group": "4",
+    "admin": {
+        "username": "gp4_admin",
+        "email": "gp4_admin@test.com",
+        "password": "BBmtTIDNWx0PwaX8"
+    },
+    "user": {
+        "username": "gp4_user",
+        "email": "gp4_user@test.com",
+        "password": "CUFlCc8W8Bg4amtp"
+    },
+    "sync": true
+}
