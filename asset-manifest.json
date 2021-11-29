@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gb-pages-api-project/static/css/main.83be82c3.chunk.css",
+    "main.js": "/gb-pages-api-project/static/js/main.0b64af7d.chunk.js",
+    "main.js.map": "/gb-pages-api-project/static/js/main.0b64af7d.chunk.js.map",
+    "runtime-main.js": "/gb-pages-api-project/static/js/runtime-main.e870fbb0.js",
+    "runtime-main.js.map": "/gb-pages-api-project/static/js/runtime-main.e870fbb0.js.map",
+    "static/js/2.65f7a9b2.chunk.js": "/gb-pages-api-project/static/js/2.65f7a9b2.chunk.js",
+    "static/js/2.65f7a9b2.chunk.js.map": "/gb-pages-api-project/static/js/2.65f7a9b2.chunk.js.map",
+    "index.html": "/gb-pages-api-project/index.html",
+    "static/css/main.83be82c3.chunk.css.map": "/gb-pages-api-project/static/css/main.83be82c3.chunk.css.map",
+    "static/js/2.65f7a9b2.chunk.js.LICENSE.txt": "/gb-pages-api-project/static/js/2.65f7a9b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e870fbb0.js",
+    "static/js/2.65f7a9b2.chunk.js",
+    "static/css/main.83be82c3.chunk.css",
+    "static/js/main.0b64af7d.chunk.js"
+  ]
+}
